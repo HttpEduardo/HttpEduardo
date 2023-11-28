@@ -307,9 +307,6 @@
 <!-- End My favorite tools -->
  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-
-
 </body>
 
 <footer>
