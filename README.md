@@ -306,12 +306,6 @@
 
 <!-- End My favorite tools -->
  
- <!-- Start Contact Me -->
-<section>
-  <p align="center">
-  <h2 align="center">Contact Me </h2>
-  <h2 align="center"> eduardoopaimk@gmail.com </h2>
- 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
