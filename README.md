@@ -13,9 +13,7 @@
 
 <!-- Start My Basic Information -->
 <section>
-   <p>Hello! I'm Eduardo Vivian, a 25-year-old senior full-stack developer from São Paulo, Brazil. With a decade of experience in software development, my journey in this field is not just a profession, but a passion shaped by the inspirational legacy of my father. He has been a programmer since 1998, and his dedication to the craft sparked my interest in technology at an early age. His guidance and support have been instrumental in my growth, and I strive every day to make him proud. <br><br>
-   My foray into programming began under my father's tutelage, fostering a deep-seated love for technology and its transformative power. I am captivated by how technology can make the world a better, more practical place to live. Throughout my career, I've focused on using my skills to contribute to this vision, believing strongly in the positive impact of technology on our daily lives. <br><br>
-   For me, coding is more than lines of code; it’s a way to bring ideas to life and solve real-world problems. I find joy in the challenges and the constant learning that this field offers. Whether it's discussing the latest tech trends or sharing insights on full-stack development, I'm always open to connect and collaborate. Feel free to reach out to me for any questions or just to exchange thoughts on how technology continues to shape our world.</p>
+   <p>Hello!</p>
 </section>
 
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
